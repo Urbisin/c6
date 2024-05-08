@@ -1,0 +1,3 @@
+/Users/urbisin/Documents/Universidad/Quinto Ciclo/Algoritmos y Estructuras de Datos/BST/cmake-build-debug/CMakeFiles/BTS.dir
+/Users/urbisin/Documents/Universidad/Quinto Ciclo/Algoritmos y Estructuras de Datos/BST/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/urbisin/Documents/Universidad/Quinto Ciclo/Algoritmos y Estructuras de Datos/BST/cmake-build-debug/CMakeFiles/rebuild_cache.dir
